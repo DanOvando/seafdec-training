@@ -18,6 +18,11 @@ the correct versions of all the packages needed to replicate our
 results. Packages are installed in a stand-alone project library for
 this paper, and will not affect your installed R packages anywhere else.
 
+## Data
+
+You can place relatively small (\< 10s of MB) data in the “data” folder
+to share.
+
 ``` r
 library(sraplus)
 library(LBSPR)
