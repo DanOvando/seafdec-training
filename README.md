@@ -1,2 +1,25 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 # seafdec-training
-Shared materials for September 2022 SEAFDEC training
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+A repository for SEAFDEC training
+
+## Setup
+
+This project is set up with
+[`renv`](https://rstudio.github.io/renv/articles/renv.html) to manage
+package dependencies. Inside R (and with your working directory set
+correctly) run `renv::restore()`. Follow all prompts. This will install
+the correct versions of all the packages needed to replicate our
+results. Packages are installed in a stand-alone project library for
+this paper, and will not affect your installed R packages anywhere else.
+
+``` r
+library(sraplus)
+library(LBSPR)
+library(JABBA)
+```
