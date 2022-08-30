@@ -1,0 +1,20 @@
+---
+title: "SEAFDEC Training Notes"
+format: html
+editor: visual
+---
+
+
+```{r}
+#| label: setup
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Monday 2022/08/29
+
+### malaysia
+
+quantity, species, effort, vessel, gear 
+
+so we'll need to scale up total catch from the sample proportion

@@ -1,0 +1,63 @@
+---
+title: "Assessments"
+format: revealjs
+editor: visual
+---
+
+
+
+## Why Is or Isn't This Enough?
+
+$$
+B_{t+1} = B_t \left(1 + r \left(1 + \frac{B_t}{K} \right) \right) - C_t
+$$
+
+$$
+\frac{B_t}{BMSY} = \frac{B_t}{K/2}
+$$
+
+$$
+MSY = \frac{rK}{4}
+$$
+$$
+\frac{F_t}{FMSY} = \frac{C_t/B_t}{r/2}
+$$
+
+## Adding Model Complexity
+
+- "All models are wrong but some are useful"
+
+- Goal is the "least wrong" model?
+
+- Why don't we use full ecosystem models for every assessment then? 
+
+. . . 
+
+goal is **least wrong model that your data and resources will support**
+
+## Rough "Best Practices"
+
+- Determine and process your data 
+  - data must be representative of the stock
+
+- Develop models linking data to population
+  - Develop *competing* models as needed
+  
+- Decide how to weight your data
+
+- Check for quality of fit
+  - Convergence, uncertainty, model misspecification
+  
+- Compare alternative models
+
+- Communicate all viable model results **and uncertainty**
+
+## Let's Look at Some Assessments
+
+
+## Resources
+
+Explore NOAA assessments here
+
+https://www.st.nmfs.noaa.gov/stocksmart
+
